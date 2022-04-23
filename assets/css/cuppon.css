@@ -1,0 +1,29 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300px;
+}
+
+.navbar {
+    background-color: #28a745;
+    text-align: end;
+}
+
+.navbar-item{
+    text-align: right;
+
+}
+
+.formulario{
+    background-color: #28a745;
+}
+
+.colores{
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.parrafo-verde{
+    color: #28a745;
+    font-family: 'Roboto', sans-serif;
+}
+
